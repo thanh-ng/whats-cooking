@@ -17,6 +17,6 @@ An accuracy of 0.80457 on the average and of 0.81386 on the Kaggle’s test data
 * Clone the project to your local: <code>$ git clone https://github.com/thanh-ng/whats-cooking.git</code>
 * `utils.py`: utility functions for building models
 * `main.py` : Change hyperparameter space in this file for grid search (optionally) and run this file.   
-* Run main.py directly in PyCharm or run in Windows Command Prompt: <code>$python main.py</code>
+* Run `main.py` directly in PyCharm or run in Windows Command Prompt: <code>$python main.py</code>
 
 *Also see my other projects [HERE](http://thanh-ng.github.io/pages/src/)
