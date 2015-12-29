@@ -1,6 +1,9 @@
 # whats-cooking		
 ## Introduction  
-This model predicts cuisines of a recipe based on the ingredients used in this recipe. The full decription of this competition can be found [HERE](https://www.kaggle.com/c/whats-cooking).  
+This model predicts cuisines of a recipe based on the ingredients used in this recipe. The full decription of this competition can be found [HERE](https://www.kaggle.com/c/whats-cooking).  		
+
+Each recipe consists of its ID, cuisine, and ingredients.   
+![alt text](\images\train-recipe.png "One sample recipe in the dataset") 
 ## Model  
 * Feature Extraction:   
 	* Tf-idf features  
