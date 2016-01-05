@@ -19,4 +19,4 @@ An accuracy of 0.80457 on the average and of 0.81386 on the Kaggle’s test data
 * `main.py` : Change hyperparameter space in this file for grid search (optionally) and run this file.   
 * Run `main.py` directly in PyCharm or run in Windows Command Prompt: <code>$python main.py</code>
 
-*Also see my other projects [HERE](http://thanh-ng.github.io/pages/src/)
+*Also see my other projects [HERE](http://thanh-ng.github.io/side)
